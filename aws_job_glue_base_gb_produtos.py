@@ -1,4 +1,4 @@
-# Programa que realiza a leitura de um arquivo Excel e insere em um bucket
+# Programa que realiza a leitura de um arquivo Excel e insere em um bucket - teste
 import sys
 from awsglue.transforms import *
 from awsglue.utils import getResolvedOptions
